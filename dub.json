@@ -1,0 +1,13 @@
+{
+	"name": "uim-server-api",
+	"authors": [ "UI Manufaktur Team" ],
+	"description": "[Test] D Library for Server API",
+	"copyright": "Copyright © 2019, UI Manufaktur UG",
+	"license": "Apache 2.0",
+	"targetType": "library",
+	"dependencies": {
+		"vibe-d": "==0.8.5",
+		"uim-core": "~>0.19.6",
+		"uim-oop": "~>0.19.6"
+	}
+}
